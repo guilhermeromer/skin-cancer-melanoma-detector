@@ -1,8 +1,15 @@
-# Skin-Cancer-Detector-Android
-Porting my previous Skin Cancer Detector developed in Python using Tensorflow and Keras over to Android. The application lets the user to use an existing image from a gallery or take a photo in real time. The program will then display its prediction.  
+# Inteligência Artificial - Detector de Câncer de Pele (melanoma) para Android
 
-Skin Cancer Detector achieved a total accuracy of 87% after being trained on ISIC, PH2, and Complete MedNode online databases.  
+A seguinte aplicação se trata de uma aplicação Android que classifica as imagens carregadas nela como ou melanomas ou não melanomas. A aplicação foi criada a partir da biblioteca de machine learning Tensorflow e Keras, utilizando a linguagem Python. Posteriormente, o modelo de inteligência artificial treinado no computador foi exportado para ser utilizado na versão Lite (para Android) do Tensorflow.
 
-Note: Since the model was trained on high quality images taken in various hospitals, in order for the program to predict correctly, the inputted image needs to be of as high quality as possible for accurate predictions. It's difficult for the program to recognize the skin cancer features on low quality images.  
+Para o treinamento, foram utilizadas imagens de diversos bancos de imagens, com destaque aos bancos ISIC e PH2. A aplicação atingiu uma acurácia de 80% de acertos em testes realizados utilizando imagens de melanomas confirmados e imagens de outras doenças de pele.
 
-WARNING: The program is to be used as a supplementary tool. You should not be solely relying on the predictions of the program. If you're concerned about skin cancer, do not hesitate to contact a professional dermatologist.
+A aplicação não substitui o diagnóstico feito por um especialista e foi construída com o mero propósito de realizar pré-diagnósticos.
+
+# Artificial Intelligence - Android Skin Cancer (Melanoma) Detector
+
+The following application is an Android application that classifies the images loaded in it as either melanomas or not melanomas. The application was created from the machine learning library Tensorflow and Keras, using the Python language. Later, the artificial intelligence model trained on the computer was exported for use in the Lite version (for Android) of Tensorflow.
+
+For the training, images from several image banks were used, with emphasis on the ISIC and PH2 banks. The application reached an accuracy of 80% of correct answers in tests performed using images of confirmed melanomas and images of other skin diseases.
+
+The application does not replace the diagnosis made by a specialist and was built for the sole purpose of performing pre-diagnoses.
