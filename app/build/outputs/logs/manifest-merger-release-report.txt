@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0b7541085570471f34cbf406e52b2782/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6eccfc05cfd57530c518bf4e935a2333/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/bf4b1f9fca6e7370e1b67a4f33e579d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/24d27ce9c41878cbcb03c77558f23236/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/01044cc3fa1ae09add5a4012d676169a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/36366bb57475b26ebe5f557df799c4c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/63e3f45afd9d8c3e756a29ac89650e90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/32c32bfe8aa7de3d9157285db125ed66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4dd30a4cd2c1467fac765663401ff03f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ba4cc9bde0df6a2729a7cd5e3170e428/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5c85553f66b8d65c9ce4f67cb9880fe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ff9c0c8200ae2c721a1a03e6351e65d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bb2e4b7e9359bf9c7c928ac81d0c3ff5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e5dba9b638759ebbdc58366a437268b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2208ff875d3e79d86dfa2332fc0f6c55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/70f3d27c39d88d485dd7741510dd1e4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a4b739bf32ce944d0002ea6aa713d165/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d77e828604e88e0f233132ebc26cdc52/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c53d1e1971ac0ff7fd4003e2a2df10ac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bb8fa70a91c5152d5818e1fc72b4d850/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d754f942dd5b9ceb3c282e612c8dcec5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3355f88e52c051ae2f555536cd933109/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7cf90871ad9f331c5b5fe150d6de7935/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/593930df2e8a1c5d7548149f7004c7c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/eae86fd4d6bc86fc16d78c07a4d818a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a6cc0d3dd1dcf6754eced9b88cc5d3d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/446b52719c63d8905fe96c894695931b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/11a90d227b73724b3c6c59c81c6db0a5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:5:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:6:22-77
+uses-feature#android.hardware.camera
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:9:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:12:22-78
+application
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:14:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6eccfc05cfd57530c518bf4e935a2333/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6eccfc05cfd57530c518bf4e935a2333/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a4b739bf32ce944d0002ea6aa713d165/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a4b739bf32ce944d0002ea6aa713d165/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d77e828604e88e0f233132ebc26cdc52/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d77e828604e88e0f233132ebc26cdc52/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a4b739bf32ce944d0002ea6aa713d165/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:18:9-64
+	android:icon
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:16:9-59
+	android:allowBackup
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.example.guilherme.skincancerdetector.InicialActivity
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:21:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.guilherme.skincancerdetector.MainActivity
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:28:19-47
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:36:13-47
+	android:authorities
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:34:13-84
+	android:exported
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:33:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:37:13-39:58
+	android:resource
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:39:17-55
+	android:name
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml:38:17-67
+uses-sdk
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0b7541085570471f34cbf406e52b2782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0b7541085570471f34cbf406e52b2782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6eccfc05cfd57530c518bf4e935a2333/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6eccfc05cfd57530c518bf4e935a2333/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/bf4b1f9fca6e7370e1b67a4f33e579d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/bf4b1f9fca6e7370e1b67a4f33e579d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/24d27ce9c41878cbcb03c77558f23236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/24d27ce9c41878cbcb03c77558f23236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/01044cc3fa1ae09add5a4012d676169a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/01044cc3fa1ae09add5a4012d676169a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/36366bb57475b26ebe5f557df799c4c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/36366bb57475b26ebe5f557df799c4c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/63e3f45afd9d8c3e756a29ac89650e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/63e3f45afd9d8c3e756a29ac89650e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/32c32bfe8aa7de3d9157285db125ed66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/32c32bfe8aa7de3d9157285db125ed66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4dd30a4cd2c1467fac765663401ff03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4dd30a4cd2c1467fac765663401ff03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ba4cc9bde0df6a2729a7cd5e3170e428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ba4cc9bde0df6a2729a7cd5e3170e428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5c85553f66b8d65c9ce4f67cb9880fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5c85553f66b8d65c9ce4f67cb9880fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ff9c0c8200ae2c721a1a03e6351e65d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ff9c0c8200ae2c721a1a03e6351e65d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bb2e4b7e9359bf9c7c928ac81d0c3ff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bb2e4b7e9359bf9c7c928ac81d0c3ff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e5dba9b638759ebbdc58366a437268b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e5dba9b638759ebbdc58366a437268b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2208ff875d3e79d86dfa2332fc0f6c55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2208ff875d3e79d86dfa2332fc0f6c55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/70f3d27c39d88d485dd7741510dd1e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/70f3d27c39d88d485dd7741510dd1e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a4b739bf32ce944d0002ea6aa713d165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a4b739bf32ce944d0002ea6aa713d165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d77e828604e88e0f233132ebc26cdc52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d77e828604e88e0f233132ebc26cdc52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c53d1e1971ac0ff7fd4003e2a2df10ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c53d1e1971ac0ff7fd4003e2a2df10ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bb8fa70a91c5152d5818e1fc72b4d850/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bb8fa70a91c5152d5818e1fc72b4d850/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d754f942dd5b9ceb3c282e612c8dcec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d754f942dd5b9ceb3c282e612c8dcec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3355f88e52c051ae2f555536cd933109/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3355f88e52c051ae2f555536cd933109/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7cf90871ad9f331c5b5fe150d6de7935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7cf90871ad9f331c5b5fe150d6de7935/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/593930df2e8a1c5d7548149f7004c7c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/593930df2e8a1c5d7548149f7004c7c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/eae86fd4d6bc86fc16d78c07a4d818a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/eae86fd4d6bc86fc16d78c07a4d818a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a6cc0d3dd1dcf6754eced9b88cc5d3d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a6cc0d3dd1dcf6754eced9b88cc5d3d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/446b52719c63d8905fe96c894695931b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/446b52719c63d8905fe96c894695931b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/11a90d227b73724b3c6c59c81c6db0a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/guilherme/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/11a90d227b73724b3c6c59c81c6db0a5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/src/main/AndroidManifest.xml

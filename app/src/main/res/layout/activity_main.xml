@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context="com.example.m_rau.skincancerdetector.com.example.guilherme.skincancerdetector.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageViewPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:contentDescription="Image"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonPhoto"
+        android:layout_width="296dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/roundedbutton"
+        android:backgroundTint="@android:color/darker_gray"
+        android:onClick="checkPermissions"
+        android:text="Tirar foto"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toTopOf="@+id/loadimage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/prediction"
+        app:layout_constraintVertical_bias="0.925" />
+
+    <Button
+        android:id="@+id/loadimage"
+        android:layout_width="296dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/roundedbutton"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:text="Carregar imagem"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/prediction"
+        android:layout_width="337dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="24dp"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewPhoto" />
+
+</android.support.constraint.ConstraintLayout>

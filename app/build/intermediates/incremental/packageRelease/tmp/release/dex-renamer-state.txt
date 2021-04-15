@@ -1,0 +1,4 @@
+#Sun Nov 22 22:27:41 BRT 2020
+base.0=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

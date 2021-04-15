@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sun Nov 22 22:27:42 BRT 2020
+2.base=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/transforms/mergeJniLibs/release/0
+5.set=NATIVE_RESOURCE
+0.path=skin_cancer_detector_model.pb
+2.baseType=DIRECTORY
+3.base=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/transforms/mergeJniLibs/release/0
+2.set=NATIVE_RESOURCE
+1.path=lib/arm64-v8a/libtensorflow_inference.so
+4.base=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/transforms/dexMerger/release/0
+count=6
+5.baseType=DIRECTORY
+2.path=lib/x86_64/libtensorflow_inference.so
+5.base=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/transforms/mergeJniLibs/release/0
+4.set=DEX
+3.path=lib/armeabi-v7a/libtensorflow_inference.so
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+1.baseType=DIRECTORY
+5.path=lib/x86/libtensorflow_inference.so
+0.base=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=/Users/guilherme/Documents/faculdade/TCC/Programas/skincancer/app/build/intermediates/transforms/mergeJniLibs/release/0
+4.baseType=DIRECTORY
+0.set=ASSET
